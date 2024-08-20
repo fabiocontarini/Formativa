@@ -1,0 +1,69 @@
+body{
+   background-color: brown;
+}
+
+h1{
+    text-align: center;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+
+.cor-preto{
+   background-color: black;
+}
+
+.cor-branco{
+    background-color: aliceblue;
+}
+
+.subtitulo{
+    text-align: center;
+    color: white;
+    
+    background-color: black;
+}
+
+.catalogo{
+    display: flex;
+    align-items:flex-start;
+}
+
+
+
+.letra{
+    font-size: larger;
+}
+
+.tamanho{
+    font-size: larger;
+}
+
+.tamanho2{
+    font-size: medium;
+    padding-bottom: 20%;
+    padding-left: 20px;
+}
+
+.linha{
+    background-color: black;
+    background-image: url(pipoca-linha.png);
+    padding: 7px;
+}
+
+.centro{
+    text-align: center;
+}
+
+a{
+    color: gold;
+}
+
+.final{
+    text-align: center;
+}
